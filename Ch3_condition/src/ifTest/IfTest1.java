@@ -1,3 +1,4 @@
+package ifTest;
 public class IfTest1 {
     public static void main(String[] args) {
         

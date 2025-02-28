@@ -1,3 +1,4 @@
+package ifTest;
 import java.util.Scanner;
 
 public class SwitchTest1 {
